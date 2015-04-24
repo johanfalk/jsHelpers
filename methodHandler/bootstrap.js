@@ -1,7 +1,6 @@
 (function($) { 'use strict';
 
 $(document).ready(function() {
-  Drupal.MethodHandler.call('documentReady');
   Drupal.MethodHandler.BreakpointHandler.init();
 
   if (Drupal.MethodHandler.resizeMethodsDefined()) {
