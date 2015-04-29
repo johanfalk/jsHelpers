@@ -1,6 +1,6 @@
 (function($) { 'use strict';
 
-Drupal.behaviors.oddbaby = {
+Drupal.behaviors.ODDBABY = {
 
 };
 
